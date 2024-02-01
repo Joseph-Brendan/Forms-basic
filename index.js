@@ -16,3 +16,5 @@ function validateFullName(){
         fullNameInput.style.outline = "1px solid green"
     }
 }
+
+// Even a comment
